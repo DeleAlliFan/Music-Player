@@ -1,2 +1,6 @@
 # Music-Player
 Easy Music player
+pip install os
+pip install sys
+pip install PyQt6
+pip install mutagen
